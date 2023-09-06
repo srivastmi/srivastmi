@@ -1,4 +1,9 @@
 ### Hi there 👋
+Hi! :) My name is Mihir and I am a fourth year student at UCLA studying Linguistics and Computer Science. Currently I am working in the field of Cybersecurity but my other interests include natural language processing, full stack development, and exploring different areas of Computer Science. I am currently looking for a job in the computer science field.
+
+Outside of class I enjoy teaching as part of the ACM Teach LA program and performing research with the Speech Processing and Auditory Perception Lab.
+
+In my free time I enjoy playing saxophone (for the past 9 years), relearning gymnastics (also learning calisthenics), reading, playing video games, and as of late running.
 
 <!--
 **srivastmi/srivastmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
